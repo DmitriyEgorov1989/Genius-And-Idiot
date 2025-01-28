@@ -3,7 +3,7 @@ A joke program "Genius-Idiot" for assessing intellectual abilities, written in t
 Консольное приложение:
 
 
-!([Image/Снимок экрана 2025-01-28 115058.png](https://github.com/DmitriyEgorov1989/Genius-And-Idiot/edit/main/Image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-28%20115058.png))
+!([Image/Снимок экрана 2025-01-28 115058.png]
 
 Приложение на технологии Windows Forms.
 
