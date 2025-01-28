@@ -1,0 +1,13 @@
+C:\Users\Dmitrii\source\repos\Genius-And-Idiot\GeniyIdiot.Common\bin\Debug\net8.0\GeniyIdiot.Common.deps.json
+C:\Users\Dmitrii\source\repos\Genius-And-Idiot\GeniyIdiot.Common\bin\Debug\net8.0\GeniyIdiot.Common.dll
+C:\Users\Dmitrii\source\repos\Genius-And-Idiot\GeniyIdiot.Common\bin\Debug\net8.0\GeniyIdiot.Common.pdb
+C:\Users\Dmitrii\source\repos\Genius-And-Idiot\GeniyIdiot.Common\obj\Debug\net8.0\GeniyIdiot.Common.csproj.AssemblyReference.cache
+C:\Users\Dmitrii\source\repos\Genius-And-Idiot\GeniyIdiot.Common\obj\Debug\net8.0\GeniyIdiot.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitrii\source\repos\Genius-And-Idiot\GeniyIdiot.Common\obj\Debug\net8.0\GeniyIdiot.Common.AssemblyInfoInputs.cache
+C:\Users\Dmitrii\source\repos\Genius-And-Idiot\GeniyIdiot.Common\obj\Debug\net8.0\GeniyIdiot.Common.AssemblyInfo.cs
+C:\Users\Dmitrii\source\repos\Genius-And-Idiot\GeniyIdiot.Common\obj\Debug\net8.0\GeniyIdiot.Common.csproj.CoreCompileInputs.cache
+C:\Users\Dmitrii\source\repos\Genius-And-Idiot\GeniyIdiot.Common\obj\Debug\net8.0\GeniyIdiot.Common.sourcelink.json
+C:\Users\Dmitrii\source\repos\Genius-And-Idiot\GeniyIdiot.Common\obj\Debug\net8.0\GeniyIdiot.Common.dll
+C:\Users\Dmitrii\source\repos\Genius-And-Idiot\GeniyIdiot.Common\obj\Debug\net8.0\refint\GeniyIdiot.Common.dll
+C:\Users\Dmitrii\source\repos\Genius-And-Idiot\GeniyIdiot.Common\obj\Debug\net8.0\GeniyIdiot.Common.pdb
+C:\Users\Dmitrii\source\repos\Genius-And-Idiot\GeniyIdiot.Common\obj\Debug\net8.0\ref\GeniyIdiot.Common.dll
