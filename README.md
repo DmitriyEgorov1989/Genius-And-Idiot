@@ -1,7 +1,7 @@
 # Genius-And-Idiot
 A joke program "Genius-Idiot" for assessing intellectual abilities, written in the process of studying console applications in C#, Windows Forms technology, OOP and working with JSON.
 Консольное приложение:
-!(https://raw.githubusercontent.com/ваш-юзернейм/ваш-репозиторий/main/images/logo.png)
+!(Снимок экрана 2024-09-18 143813.png)
 
 Приложение на технологии Windows Forms.
 
