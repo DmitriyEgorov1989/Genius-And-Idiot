@@ -6,40 +6,39 @@ Console application:
 
 ![Снимок экрана Consol](https://github.com/user-attachments/assets/aa5bc783-c9db-4126-aaee-7df0920ddbf0)
 
-Приложение на технологии Windows Forms.
+Application based on Windows Forms technology.
 
 ![Снимок WF](https://github.com/user-attachments/assets/1420cb0e-60ca-4fcf-bd8a-6044887f22d2)
 
 
-📄 Описание
-Пользователю задаётся несколько вопросов, программа анализирует количество правильных ответов и выводит соответствующий "диагноз".
+📄 Description
+The user is asked several questions, the program analyzes the number of correct answers and outputs the corresponding "diagnosis".
+By default, 5 questions are available, which can be expanded using the functionality of adding questions or removing unnecessary questions.
 
-По умолчанию доступно 5 вопросов, которые можно расширить с помощью функционала добавления вопросов или же удалить ненужные вопросы.
+The application is implemented in two versions:
 
-Приложение реализовано в двух вариантах:
-
-Консольное приложение;
-Приложение на технологии Windows Forms.
+Console application;
+Application on Windows Forms technology.
 📁 GeniusIdiotConsoleApp
-Консольное приложение
+Console application
 
-💻 Работа программы
-Пример работы программы:
+💻 Program operation
+Example of program operation:
 
 ![Consol](https://github.com/user-attachments/assets/8cb6941e-dd0f-4203-91bc-88c11c69801a)
 
 📁 GeniusIdiotWinFormsApp
-Приложение на технологии Windows Forms
+Application based on Windows Forms technology
 
-💻 Работа программы
-Пример работы программы:
+💻 Program operation
+Example of program operation:
 ![Winforms](https://github.com/user-attachments/assets/21c3c388-9c0b-4149-b9ba-b518843a5c40)
 
-🔧 Техническая часть
-Проект реализован на платформе Windows Forms.
-Выполнен с соблюдением принципов ООП.
-Для сохранения результатов используется формат JSON. Для сериализации и десериализации объектов используется библиотека Newtonsoft.Json.
-🧩 Архитектура
-Структура каталога решения:
+🔧 Technical part
+The project is implemented on the Windows Forms platform.
+It is implemented in compliance with OOP principles.
+The JSON format is used to save the results. The Newtonsoft.Json library is used to serialize and deserialize objects.
+🧩 Architecture
+Solution directory structure:
 ![Architect](https://github.com/user-attachments/assets/14c403b8-68d3-4154-98d9-5492b5dfe3a2)
 
