@@ -3,10 +3,12 @@ A joke program "Genius-Idiot" for assessing intellectual abilities, written in t
 Console application:
 
 
-![Console application](https://github.com/DmitriyEgorov1989/Genius-And-Idiot/row/main/Image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20Consol.png)
+
+![Снимок экрана Consol](https://github.com/user-attachments/assets/aa5bc783-c9db-4126-aaee-7df0920ddbf0)
 
 Приложение на технологии Windows Forms.
-![devenv_sTt2m2Aye1](https://github.com/user-attachments/assets/b1d482bd-662a-4525-a02e-9143c6c8abfa)
+
+![Снимок WF](https://github.com/user-attachments/assets/1420cb0e-60ca-4fcf-bd8a-6044887f22d2)
 
 
 📄 Описание
@@ -31,8 +33,7 @@ GeniusIdiotConsoleApp
 
 💻 Работа программы
 Пример работы программы:
-
-GeniusIdiotWinFormsApp
+![Winforms](https://github.com/user-attachments/assets/21c3c388-9c0b-4149-b9ba-b518843a5c40)
 
 🔧 Техническая часть
 Проект реализован на платформе Windows Forms.
@@ -40,5 +41,5 @@ GeniusIdiotWinFormsApp
 Для сохранения результатов используется формат JSON. Для сериализации и десериализации объектов используется библиотека Newtonsoft.Json.
 🧩 Архитектура
 Структура каталога решения:
+![Architect](https://github.com/user-attachments/assets/14c403b8-68d3-4154-98d9-5492b5dfe3a2)
 
-Архитектура
