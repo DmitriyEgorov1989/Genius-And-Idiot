@@ -25,8 +25,8 @@ Console application:
 
 💻 Работа программы
 Пример работы программы:
-![]https://github.com/DmitriyEgorov1989/Genius-And-Idiot/blob/main/Image/Consol.gif
-GeniusIdiotConsoleApp
+
+![Consol](https://github.com/user-attachments/assets/8cb6941e-dd0f-4203-91bc-88c11c69801a)
 
 📁 GeniusIdiotWinFormsApp
 Приложение на технологии Windows Forms
