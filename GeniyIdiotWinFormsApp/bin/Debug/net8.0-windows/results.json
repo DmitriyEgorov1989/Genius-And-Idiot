@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Дмитрий",
+    "RightAnswerCount": 0,
+    "Diagnosis": "Идиот"
+  },
+  {
+    "Name": "Дмитрий",
+    "RightAnswerCount": 1,
+    "Diagnosis": "Идиот"
+  },
+  {
+    "Name": "Дмитрий",
+    "RightAnswerCount": 5,
+    "Diagnosis": "Гений"
+  },
+  {
+    "Name": "Дмитрий",
+    "RightAnswerCount": 4,
+    "Diagnosis": "Нормальный"
+  },
+  {
+    "Name": "Дмитрий",
+    "RightAnswerCount": 2,
+    "Diagnosis": "Дурак"
+  }
+]

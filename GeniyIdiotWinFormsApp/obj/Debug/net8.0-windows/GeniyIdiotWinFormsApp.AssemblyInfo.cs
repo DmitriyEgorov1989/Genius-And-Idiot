@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeniyIdiotWinFormsApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc02adb9a76c5221e3edb7a8eab7fccd75828314")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb7fd150c7a05e0006462181892ebf6bbc02a3e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeniyIdiotWinFormsApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeniyIdiotWinFormsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

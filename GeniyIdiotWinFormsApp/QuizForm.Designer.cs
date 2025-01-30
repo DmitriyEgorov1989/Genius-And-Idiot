@@ -78,7 +78,7 @@
             menuStrip1.Items.AddRange(new ToolStripItem[] { stripMenuItem });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(533, 28);
+            menuStrip1.Size = new Size(582, 28);
             menuStrip1.TabIndex = 5;
             menuStrip1.Text = "menuStrip1";
             // 
@@ -139,7 +139,7 @@
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ButtonShadow;
-            ClientSize = new Size(533, 464);
+            ClientSize = new Size(582, 453);
             Controls.Add(timerLabel);
             Controls.Add(userAnswerNumericUpDown);
             Controls.Add(questionNumberTextLabel);
