@@ -22,7 +22,7 @@ Console application:
 
 💻 Работа программы
 Пример работы программы:
-
+![]https://github.com/DmitriyEgorov1989/Genius-And-Idiot/blob/main/Image/Consol.gif
 GeniusIdiotConsoleApp
 
 📁 GeniusIdiotWinFormsApp
